@@ -38,7 +38,15 @@ function App() {
          </ul>
 
        </div>
-
+        <div id = 'taniaDiv'>
+          <h2 style={{color: "#038103"}}> Tania </h2>
+          <ul>
+            My main hobby is cooking 🍝
+            <p>
+            I love cooking because it allows me to be creative and experiment (not always with the best results!😶‍🌫️)
+            </p>
+        </ul>
+      </div> 
      </header>
    </div>
 );
