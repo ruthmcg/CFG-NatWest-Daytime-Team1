@@ -39,12 +39,15 @@ function App() {
 
        </div>
         <div id = 'taniaDiv'>
-          <h2 style={{color: "#038103"}}> Tania </h2>
-          <ul>
-            My main hobby is cooking 🍝
+          <h2 style={{color: "#38761d"}}> Tania </h2>
+           <ul style={{color: "#a42162"}}>
+             My main hobby is cooking 🍝
             <p>
-            I love cooking because it allows me to be creative and experiment (not always with the best results!😶‍🌫️)
+              I love cooking because I love food and the traditions connected to it!
+            <p>
+              It allows me to be creative and experiment (not always with the best results 😶‍🌫️) 
             </p>
+          </p>
         </ul>
       </div> 
      </header>
