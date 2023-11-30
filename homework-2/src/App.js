@@ -22,9 +22,26 @@ function App() {
         </ul>
         </div> 
 
-      </header>
-    </div>
-  );
+        <div id="selinaDiv">
+          <h1 style={{color: "#FF1493"}}>Selina</h1>
+
+          <ul>
+            <li style={{color: "#FFB6C1"}}>My hobby is baking cakes 🧁</li>
+
+            <li>I enjoy baking because:
+              <ul>
+                <li> Decorating the cakes is really fun and creative</li>
+                <li> I like trying out new flavours</li> 
+                <li> Cakes brighten someone's day when I share them!</li>
+              </ul>
+            </li>
+         </ul>
+
+       </div>
+
+     </header>
+   </div>
+);
 }
 
 export default App;
