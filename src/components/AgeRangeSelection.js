@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import Home from './Home';
 import Quiz from './Quiz';
 
 const AgeRangeSelection = () => {
