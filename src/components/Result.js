@@ -23,7 +23,7 @@ const Result = ({ userAnswers, questions }) => {
     resultMessage = 'Congratulations! You got all the answers right!';
 
   } else {
-    resultMessage = `You got ${score} out of ${questions.length} questions right. We hope you found this quiz informative and helpful. There is still much to learn about peri-menopause, menopause, and post-menopause. Please explore some of the resources below if you would like to deepen your knowledge further. `;
+    resultMessage = `You got ${score} out of ${questions.length} questions right. We hope you found this quiz informative and helpful. There is still much to learn about peri-menopause, menopause, and post-menopause. Please explore some of the resources in the next page if you would like to deepen your knowledge further. `;
   }
 
     
@@ -39,12 +39,7 @@ const Result = ({ userAnswers, questions }) => {
               <h1>Quiz Results</h1>
               <p>{resultMessage}</p>
     
-              <p>
-                Learn more about menopause on{' '}
-                <a href="https://www.nhs.uk/conditions/menopause/" target="_blank" rel="noopener noreferrer">
-                  NHS - Menopause
-                </a>
-              </p>
+            
               <div>
                 <button className="answer-button" onClick={handleNext}>
                   Next

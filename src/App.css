@@ -1,5 +1,5 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   margin: 0;
   padding: 0;
   background-color: #273B47;
@@ -12,7 +12,7 @@ body {
   border: 1px solid #ddd;
   background-color: #ddd;
   border-radius: 8px;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   margin-bottom: 10%;
   text-align: center;
   color: #273B47;
@@ -30,7 +30,7 @@ body {
 }
 
 .question-box {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   margin-bottom: 10%;
   text-align: center;
   color: #273B47;
@@ -58,4 +58,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.welcome-text {
+  font-family: 'Helvetica', sans-serif;
+  margin-bottom: 10%;
+  text-align: left;
+  color: #273B47;
 }
