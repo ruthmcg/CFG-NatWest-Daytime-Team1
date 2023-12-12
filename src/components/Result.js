@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import NextPage from './NextPage';
+import Resources from './Resources';
 
 const Result = ({ userAnswers, questions }) => {
   const calculateScore = () => {
@@ -62,7 +62,7 @@ const Result = ({ userAnswers, questions }) => {
               )}
             </div>
           ) : (
-            showNext && <NextPage />
+            showNext && < Resources/>
           )}
         </div>
       );

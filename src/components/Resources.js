@@ -1,8 +1,8 @@
 import React from 'react';
 
-const NextPage = () => {
+const Resources = () => {
   return (
-    <div>
+    <div id="resources-content">
       <h1>More Resources</h1>
       <h2>NHS Website:</h2>
    
@@ -14,7 +14,7 @@ const NextPage = () => {
 
       <h2>Podcast:</h2> If you would like to learn more about the menopause, we highly recommend listening to this podcast. There are many creators making excellent content about the menopause and how it affects women all around the world. 
 
-<p><iframe style={{border:"1%"}}  src="https://open.spotify.com/embed/show/7dCctfyI9bODGDaFnjfKhg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p><iframe title="spotify-podcast" style={{border:"1%"}}  src="https://open.spotify.com/embed/show/7dCctfyI9bODGDaFnjfKhg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </p>
 <div>
 <h2>The Menopause Charity:</h2>
@@ -34,4 +34,4 @@ const NextPage = () => {
   );
 };
 
-export default NextPage;
+export default Resources;

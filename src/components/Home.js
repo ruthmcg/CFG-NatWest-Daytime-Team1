@@ -32,7 +32,7 @@ const Home = () => {
             </div>
             <h2>Find out more about Menopause</h2>
                       
-          <button className="answer-button" onClick={handleStartQuiz}>Next</button>
+          <button className="answer-button" onClick={handleStartQuiz}>Check Your Knowledge</button>
         </div>
       ) : (
         <AgeRangeSelection />
