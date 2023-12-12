@@ -42,7 +42,7 @@ const Result = ({ userAnswers, questions }) => {
             
               <div>
                 <button className="answer-button" onClick={handleNext}>
-                  Next
+                  >>> Expand your knowledge >>>
                 </button>
               </div>
     
