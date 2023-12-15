@@ -4,7 +4,7 @@
 
 # WiserPause
 
-WiserPause is a quiz application designed to test your knowledge of menopause and provide valuable resources to learn more about this important phase in a woman's life.
+WiserPause is a quiz application designed to test your knowledge of menopause and provide helpful resources to learn more about this important phase in a woman's life.
 
 ## Table of Contents
 - [Introduction](#introduction)
