@@ -1,4 +1,3 @@
-// tests for the 'AgeRangeSelection' component
 // 1 - test if component renders without crashing
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
