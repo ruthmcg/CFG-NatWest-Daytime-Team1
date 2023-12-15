@@ -4,7 +4,7 @@
 
 # WiserPause
 
-WiserPause is a quiz application designed to test your knowledge of menopause and provide helpful resources to learn more about this important phase in a woman's life.
+WiserPause is a quiz application designed to test your knowledge of peri/menopause and provide helpful resources to learn more about this important phase in a woman's life.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,12 +16,14 @@ WiserPause is a quiz application designed to test your knowledge of menopause an
 
 ## Introduction
 
-Menopause is a natural phase in a woman's life, and having the right information is crucial for navigating through it with confidence. WiserPause aims to educate and empower individuals by offering a quiz that challenges your knowledge of menopause, accompanied by curated resources to delve deeper into the subject.
+Peri/menopause is a natural phase in a woman's life, and having the right information is crucial for navigating it with confidence. 
+
+WiserPause aims to educate and empower individuals by offering a quiz that challenges your knowledge of peri/menopause, accompanied by curated resources to delve deeper into the subject.
 
 ## Features
 
 - **Quiz Game:** Test your knowledge with a set of engaging quiz questions related to menopause.
-- **Educational Resources:** Access a collection of reliable resources to enhance your understanding of menopause and share some stories from empowered women that went through it.
+- **Educational Resources:** Access a collection of reliable resources to enhance your understanding of peri/menopause and share some stories from empowered women that went through it.
 - **User-Friendly Interface:** Enjoy a simple and intuitive design for a seamless experience, tested for accessibility. 
 
 ## Getting Started
@@ -33,12 +35,8 @@ To get started with WiserPause, follow these steps:
    ```bash
    git clone https://github.com/your-username/WiserPause.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory.
 
-
-    ```bash
-    cd WiserPause
-    
 3. In a terminal run:
 
       ```bash
@@ -47,15 +45,15 @@ To get started with WiserPause, follow these steps:
 4. Run the following command to start the react-app, It will run on port 3000 by default and can be accessed by going to http://localhost:3000:
    
     ```bash
-     npm run start 
+     npm start 
 
 ## How to Play
 
-- Read the intro and click on the "Next" button
+- Read the intro and click on the "Check Your Knowledge" button
 - Select your age range
-- Select the answers to the questions presented at the best of your knowledge
-- Check how many you got right
-- Find out more about women's menopause journey and listen to one of the best rated podcasts on the topic
+- Select the answers to the questions presented to the best of your knowledge
+- Check how many you got right and read the right answers
+- Find out more about women's peri/menopause journeys and listen to one of the best rated podcasts on the topic
 
 ## Contributing
 
@@ -67,7 +65,7 @@ We welcome contributions to enhance and expand the WiserPause project. If you'd 
   
 For major changes, please open an issue first to discuss the proposed changes.
 
-## Who are We
+## The Team
 
 
 - [Caitlin Oddy](https://github.com/Catreeney2)
