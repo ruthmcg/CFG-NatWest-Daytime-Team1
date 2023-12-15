@@ -20,6 +20,8 @@ Peri/menopause is a natural phase in a woman's life, and having the right inform
 
 WiserPause aims to educate and empower individuals by offering a quiz that challenges your knowledge of peri/menopause, accompanied by curated resources to delve deeper into the subject.
 
+A walkthrough of our app can be found at the following link: [WiserPause walkthrough](https://drive.google.com/file/d/10tAp-YcFPsV3U316r2cvQGnxbW-HBwXu/view "WiserPause walkthrough")
+
 ## Features
 
 - **Quiz Game:** Test your knowledge with a set of engaging quiz questions related to menopause.
