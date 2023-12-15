@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://github.com/ruthmcg/CFG-NatWest-Daytime-Team1/assets/128521409/4e648c2f-9333-4124-9a12-a443f8ece228)"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# WiserPause
 
-## Available Scripts
+WiserPause is a quiz application designed to test your knowledge of peri/menopause and provide helpful resources to learn more about this important phase in a woman's life.
 
-In the project directory, you can run:
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [How to Play](#how-to-play)
+- [Contributing](#contributing)
+- [Who are We](#who-are-we)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Peri/menopause is a natural phase in a woman's life, and having the right information is crucial for navigating it with confidence. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+WiserPause aims to educate and empower individuals by offering a quiz that challenges your knowledge of peri/menopause, accompanied by curated resources to delve deeper into the subject.
 
-### `npm test`
+A walkthrough of our app can be found at the following link: [WiserPause walkthrough](https://drive.google.com/file/d/10tAp-YcFPsV3U316r2cvQGnxbW-HBwXu/view "WiserPause walkthrough")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- **Quiz Game:** Test your knowledge with a set of engaging quiz questions related to menopause.
+- **Educational Resources:** Access a collection of reliable resources to enhance your understanding of peri/menopause and share some stories from empowered women that went through it.
+- **User-Friendly Interface:** Enjoy a simple and intuitive design for a seamless experience, tested for accessibility. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To get started with WiserPause, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository to your local machine:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/your-username/WiserPause.git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Navigate to the project directory.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. In a terminal run:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+      ```bash
+      npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Run the following command to start the react-app, It will run on port 3000 by default and can be accessed by going to http://localhost:3000:
+   
+    ```bash
+     npm start 
 
-## Learn More
+## How to Play
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Read the intro and click on the "Check Your Knowledge" button
+- Select your age range
+- Select the answers to the questions presented to the best of your knowledge
+- Check how many you got right and read the right answers
+- Find out more about women's peri/menopause journeys and listen to one of the best rated podcasts on the topic
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+We welcome contributions to enhance and expand the WiserPause project. If you'd like to contribute, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and submit a pull request.
+  
+For major changes, please open an issue first to discuss the proposed changes.
 
-### Analyzing the Bundle Size
+## The Team
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+- [Caitlin Oddy](https://github.com/Catreeney2)
+- [Ruth McGowan](https://github.com/ruthmcg)
+- [Selina Lehane](https://github.com/selinalehane)
+- [Tania Alessi](https://github.com/16tales)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
